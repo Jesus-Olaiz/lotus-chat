@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-App.js
+/frontend/lotus-front/src/App.js
 
 
 # production
