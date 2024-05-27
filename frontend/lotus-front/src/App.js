@@ -7,14 +7,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyABsDYN5rm7lUnrbi03RJhEk27w01De-Pg",
-  authDomain: "testing-c82eb.firebaseapp.com",
-  databaseURL: "https://testing-c82eb-default-rtdb.firebaseio.com",
-  projectId: "testing-c82eb",
-  storageBucket: "testing-c82eb.appspot.com",
-  messagingSenderId: "637586527997",
-  appId: "1:637586527997:web:fe33532d1b4c3cb0819094",
-  measurementId: "G-N6W8PCNGP6"
+    
 }
 
 // Initialize Firebase
